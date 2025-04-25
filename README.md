@@ -1,7 +1,7 @@
 # CS-405 Portfolio
 
-### Assignments
---------------------------
+# Assignments
+
 ## Module One
 # 1-3 Numeric Overflow
 
@@ -15,6 +15,6 @@
 # 5-2 Encryption
 # 5-3 Static Code Analysis
 
-## Projects
-------------------
+# Projects
+
 ## Project One
