@@ -47,3 +47,6 @@ SecurityPolicyUnitTests
 *Link to the presentation on YouTube*
 
 https://youtu.be/dZr0SfHrQl8
+
+## 8-2 Journal
+*This is my journal reflection on the course*
