@@ -1,4 +1,5 @@
 # CS-405 Portfolio
+*This is my portoflio for the course CS-405: Secure Coding for Southern New Hampshire University*
 
 # Assignments
 
